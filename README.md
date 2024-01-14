@@ -56,7 +56,7 @@ If you find any issues or have improvements to suggest, feel free to open an iss
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE](https://nodejs.org/) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/clintaire/Node.js-Math-Calculator?tab=MIT-1-ov-file) file for details.
 
 This `README.md` provides clear instructions on how to clone the repository, install dependencies, run the server, and use the calculator. It also includes a section on contributing and licensing. Feel free to customize it further based on your specific needs.
 
